@@ -86,6 +86,7 @@ public class Main {
         System.out.println("Задача 10");
         int a = 2;
         int count;
+
         for (int i = 1; i < 11; i++) {
             count = i * a;
             System.out.println(a + " * " + i + " = " + count);
